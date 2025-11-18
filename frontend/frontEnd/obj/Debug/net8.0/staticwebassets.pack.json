@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Arabi\\Desktop\\projet\\ift2255_Project\\frontend\\frontEnd\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Arabi\\Desktop\\projet\\ift2255_Project\\frontend\\frontEnd\\obj\\Debug\\net8.0\\compressed\\38rdv49m63.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Arabi\\Desktop\\projet\\ift2255_Project\\frontend\\frontEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\frontEnd.styles.css",
+      "PackagePath": "staticwebassets\\frontEnd.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Arabi\\Desktop\\projet\\ift2255_Project\\frontend\\frontEnd\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Arabi\\Desktop\\projet\\ift2255_Project\\frontend\\frontEnd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arabi\\Desktop\\projet\\ift2255_Project\\frontend\\frontEnd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arabi\\Desktop\\projet\\ift2255_Project\\frontend\\frontEnd\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Arabi\\Desktop\\projet\\ift2255_Project\\frontend\\frontEnd\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Arabi\\Desktop\\projet\\ift2255_Project\\frontend\\frontEnd\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Arabi\\Desktop\\projet\\ift2255_Project\\frontend\\frontEnd\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.frontEnd.props",
+      "PackagePath": "build\\frontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.frontEnd.props",
+      "PackagePath": "buildMultiTargeting\\frontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.frontEnd.props",
+      "PackagePath": "buildTransitive\\frontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.frontEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

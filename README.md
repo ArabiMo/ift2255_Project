@@ -60,3 +60,9 @@ Ce template suit principalement le modèle MVC :
 - Centralisez les routes dans `config/Routes.java` pour simplifier l’ajout de nouveaux endpoints.
 - Ajoutez des **tests unitaires** pour chaque méthode de service.
 - Conservez un style de code uniforme (respect du standard Java).
+
+cd frontend
+dotnet run
+
+cd rest-api
+mvn clean compile exec:java
